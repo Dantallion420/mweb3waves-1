@@ -7,7 +7,7 @@ const plugins = [
       displayName: process.env["NODE_ENV"] !== "production",
       transpileTemplateLiterals: true
     }
-  ],
+  ], 
 ];
 
 module.exports = {
